@@ -1048,7 +1048,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>0.984065</valueString>
+        <valueString>0.928212</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -1106,7 +1106,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>0.928212</valueString>
+        <valueString>0.850222</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -1164,7 +1164,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>0.850222</valueString>
+        <valueString>0.804509</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
