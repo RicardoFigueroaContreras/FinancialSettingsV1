@@ -149,7 +149,7 @@
       <boundName>fsi</boundName>
       <factField>pti</factField>
       <type>Double</type>
-      <valueList>0.5</valueList>
+      <valueList>0,0.25,0.3</valueList>
       <update>true</update>
     </set-field-col52>
   </actionCols>
@@ -241,7 +241,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>0.5</valueString>
+        <valueString></valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
