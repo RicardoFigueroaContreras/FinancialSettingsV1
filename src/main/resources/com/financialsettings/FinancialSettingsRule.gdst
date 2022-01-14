@@ -119,7 +119,7 @@
       <boundName>fsi</boundName>
       <factField>maxLoan</factField>
       <type>Double</type>
-      <valueList>500</valueList>
+      <valueList>3000,4000,5000</valueList>
       <update>true</update>
     </set-field-col52>
     <set-field-col52>
@@ -231,7 +231,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>500</valueString>
+        <valueString></valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
