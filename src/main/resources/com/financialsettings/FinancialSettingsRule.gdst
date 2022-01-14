@@ -2,15 +2,15 @@
   <tableName>FinancialSettingsRule</tableName>
   <rowNumberCol>
     <hideColumn>false</hideColumn>
-    <width>-1</width>
+    <width>50</width>
   </rowNumberCol>
   <descriptionCol>
     <hideColumn>false</hideColumn>
-    <width>-1</width>
+    <width>150</width>
   </descriptionCol>
   <ruleNameColumn>
     <hideColumn>true</hideColumn>
-    <width>-1</width>
+    <width>150</width>
   </ruleNameColumn>
   <metadataCols/>
   <attributeCols/>
@@ -27,7 +27,7 @@
             <isOtherwise>false</isOtherwise>
           </typedDefaultValue>
           <hideColumn>false</hideColumn>
-          <width>-1</width>
+          <width>100</width>
           <header>COUNTRY</header>
           <constraintValueType>1</constraintValueType>
           <factField>country</factField>
@@ -43,7 +43,7 @@
             <isOtherwise>false</isOtherwise>
           </typedDefaultValue>
           <hideColumn>false</hideColumn>
-          <width>-1</width>
+          <width>100</width>
           <header>CITY</header>
           <constraintValueType>1</constraintValueType>
           <factField>city</factField>
@@ -59,7 +59,7 @@
             <isOtherwise>false</isOtherwise>
           </typedDefaultValue>
           <hideColumn>false</hideColumn>
-          <width>-1</width>
+          <width>100</width>
           <header>ICS MIN</header>
           <constraintValueType>1</constraintValueType>
           <factField>ics</factField>
@@ -75,7 +75,7 @@
             <isOtherwise>false</isOtherwise>
           </typedDefaultValue>
           <hideColumn>false</hideColumn>
-          <width>-1</width>
+          <width>100</width>
           <header>ICS MAX</header>
           <constraintValueType>1</constraintValueType>
           <factField>ics</factField>
@@ -91,7 +91,7 @@
             <isOtherwise>false</isOtherwise>
           </typedDefaultValue>
           <hideColumn>false</hideColumn>
-          <width>-1</width>
+          <width>100</width>
           <header>CHANNEL</header>
           <constraintValueType>1</constraintValueType>
           <factField>channel</factField>
@@ -114,7 +114,7 @@
         <isOtherwise>false</isOtherwise>
       </typedDefaultValue>
       <hideColumn>false</hideColumn>
-      <width>-1</width>
+      <width>100</width>
       <header>MAX LOAN</header>
       <boundName>fsi</boundName>
       <factField>maxLoan</factField>
@@ -129,7 +129,7 @@
         <isOtherwise>false</isOtherwise>
       </typedDefaultValue>
       <hideColumn>false</hideColumn>
-      <width>-1</width>
+      <width>100</width>
       <header>INTEREST RATE</header>
       <boundName>fsi</boundName>
       <factField>interestRate</factField>
@@ -144,7 +144,7 @@
         <isOtherwise>false</isOtherwise>
       </typedDefaultValue>
       <hideColumn>false</hideColumn>
-      <width>-1</width>
+      <width>100</width>
       <header>PTI</header>
       <boundName>fsi</boundName>
       <factField>pti</factField>
