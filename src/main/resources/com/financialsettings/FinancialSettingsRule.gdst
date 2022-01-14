@@ -134,7 +134,7 @@
       <boundName>fsi</boundName>
       <factField>interestRate</factField>
       <type>Double</type>
-      <valueList>5.258387</valueList>
+      <valueList>5.258387,3.936645,3.491688,2.917227,2.65809,2.379385,2.124306,1.767782,1.569708,1.51976,1.301144,1.239194,1.181873,0.984065,0.928212,0.850222,0.804509,0.759066,0.713889,0.633659</valueList>
       <update>true</update>
     </set-field-col52>
     <set-field-col52>
