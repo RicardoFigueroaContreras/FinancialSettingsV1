@@ -65,7 +65,7 @@
           <factField>ics</factField>
           <fieldType>Integer</fieldType>
           <operator>&gt;</operator>
-          <valueList>1</valueList>
+          <valueList>0,525,549,565,577,588,598,608,616,625,632,640,648,656,664,674,684,696,710,730</valueList>
           <parameters/>
         </condition-column52>
         <condition-column52>
@@ -216,7 +216,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>1</valueString>
+        <valueString></valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
